@@ -15,3 +15,7 @@ GitHub Command and Control
 Common Trojaning Tasks on Windows
 ## chapter9
 Fun With Internet Explorer
+## chapter10
+Windows Privilege Escalation
+## chapter11
+Automating Offensive Forensics
